@@ -3,3 +3,5 @@
 // isalnum(str), isalpha(str), isspace(str)
 #include <algorithm>
 // std::sort(s.begin(), s.end());
+#include <cmath>
+// std::floor, std::ceil
