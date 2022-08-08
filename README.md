@@ -1,7 +1,7 @@
-#build
+# build
 
 g++ p1 p1.cpp
 
-#run
+# run
 
 ./p1 < p1.txt
