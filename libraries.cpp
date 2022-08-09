@@ -7,6 +7,7 @@
 // std::floor, std::ceil
 
 // conversions
+#include <string>
 // std::to_string - int/double to string
 // stof - convert str to a float
 // stod - convert str to a double
