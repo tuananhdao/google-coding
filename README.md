@@ -8,3 +8,8 @@ g++ -o p1 p1.cpp
 ```
 ./p1 < p1.txt
 ```
+# build & run
+```
+PROBLEM=3
+sh run.sh
+```
