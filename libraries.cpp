@@ -5,3 +5,14 @@
 // std::sort(s.begin(), s.end());
 #include <cmath>
 // std::floor, std::ceil
+
+// conversions
+// std::to_string - int/double to string
+// stof - convert str to a float
+// stod - convert str to a double
+// stold - convert str to a long double
+// stoi - convert str to an int
+// stol - convert str to a long
+// stoul - convert str to an unsigned long
+// stoll - convert str to a long long
+// stoull - convert str to an unsigned long long 
