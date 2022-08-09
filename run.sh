@@ -5,4 +5,4 @@ else
     problem=$PROBLEM
 fi
 g++ -o p$problem p$problem.cpp
-./p1 < p$problem.txt
+./p$problem < p$problem.txt
