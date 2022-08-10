@@ -6,10 +6,10 @@ signed main() {
   std::ios::sync_with_stdio(false);
   std::cin.tie(0);
 
-  int T;
-  std::cin >> T;
+  int numCases;
+  std::cin >> numCases;
 
-  for(int t = 1; t <= T; t++) {
+  for(int case = 1; case <= numCases; case++) {
     int n, l;
     std::cin >> n >> l;
     
@@ -17,7 +17,7 @@ signed main() {
     for(int i=0; i<100; i++)
       cin>>Array[i];
     
-    std::cout << "Case #" << t << ": " << std::endl;
+    std::cout << "Case #" << case << ": " << std::endl;
   }
 
   return 0;
