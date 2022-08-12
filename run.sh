@@ -4,5 +4,5 @@ then
 else
     problem=$PROBLEM
 fi
-g++ -o p$problem p$problem.cpp
+g++ -std=c++17 -o p$problem p$problem.cpp
 ./p$problem < p$problem.txt
