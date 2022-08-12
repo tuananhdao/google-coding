@@ -9,7 +9,7 @@ signed main() {
   int numCases;
   std::cin >> numCases;
 
-  for(int case = 1; case <= numCases; case++) {
+  for(int caseNum = 1; caseNum <= numCases; caseNum++) {
     int n, l;
     std::cin >> n >> l;
     
@@ -17,7 +17,7 @@ signed main() {
     for(int i=0; i<100; i++)
       cin>>Array[i];
     
-    std::cout << "Case #" << case << ": " << std::endl;
+    std::cout << "Case #" << caseNum << ": " << std::endl;
   }
 
   return 0;
