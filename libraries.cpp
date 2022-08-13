@@ -7,6 +7,11 @@
 // std::floor, std::ceil
 #include <map>
 // std::map<std::pair<int, int>, int> hashMap;
+// hashMap[std::make_pair(10,20)] = 25;
+// std::cout << hashMap[std::make_pair(10,20)] << std::endl;
+// for (const auto& [key, value] : hashMap) {
+//    std::cout << key << " has value " << value << std::endl;
+// }
 
 // conversions
 #include <string>
