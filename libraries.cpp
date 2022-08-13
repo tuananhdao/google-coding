@@ -5,6 +5,8 @@
 // std::sort(s.begin(), s.end());
 #include <cmath>
 // std::floor, std::ceil
+#include <map>
+// std::map<std::pair<int, int>, int> hashMap;
 
 // conversions
 #include <string>
